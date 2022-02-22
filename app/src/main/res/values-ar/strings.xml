@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مُسَلِّم</string>
+
+    <string-array name="Translation">
+        <item>الانجليزية</item>
+        <item>الفرنسية</item>
+        <item>الاسبانية</item>
+        <item>البرتغالية</item>
+        <item>الالمانية</item>
+        <item>التركية</item>
+        <item>الاندونيسية</item>
+        <item>التغالوغية</item>
+        <item>الفارسية</item>
+        <item>الصينية</item>
+        <item>اليبانية</item>
+        <item>الفيتنامية</item>
+        <item>الهندية</item>
+    </string-array>
+
+    <string-array name="Qari">
+        <item>أحمد علي العجمي</item>
+        <item>عبد الباسط عبد الصمد</item>
+        <item>عبد المحسن القاسم</item>
+        <item>عبد الله عواد الجهني</item>
+        <item>عبد الله بن علي بصفر</item>
+        <item>فارس عباد</item>
+        <item>مشاري راشد العفاسي</item>
+        <item>ماهر المعيقلي</item>
+        <item>السديس والشريم</item>
+        <item>ياسر الدوسري</item>
+
+    </string-array>
+    <string name="select_translation">أختر اللغة</string>
+    <string name="select_qari">أختر القارئ</string>
+    <string name="save">حفظ</string>
+    <string name="quran">ألقرآن الكريم</string>
+    <string name="fajr">الفجر</string>
+    <string name="sunrise">الشروق</string>
+    <string name="dhuhr">الظهر</string>
+    <string name="asr">العصر</string>
+    <string name="magrhib">المغرب</string>
+    <string name="isha">العشاء</string>
+    <string name="share">مشاركة</string>
+    <string name="copy_text">حفظ النص</string>
+    <string name="aya">: عدد الايات </string>
+</resources>

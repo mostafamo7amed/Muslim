@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/sheet_bg"
+    android:id="@+id/sheetContainer"
+    >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_15ssp"
+        android:text="@string/select_translation"
+        android:textStyle="bold"
+        android:padding="@dimen/_5sdp"/>
+
+    <Spinner
+        android:id="@+id/translate_sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_5sdp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_15ssp"
+        android:text="@string/select_qari"
+        android:textStyle="bold"
+        android:padding="@dimen/_5sdp"/>
+
+    <Spinner
+        android:id="@+id/audio_sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_5sdp"/>
+    <Button
+        android:id="@+id/translate_SV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_5sdp"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:text="@string/save"
+        android:textColor="@color/white"
+        android:background="@drawable/botton_bg"
+        android:textAllCaps="false"
+        android:layout_marginBottom="@dimen/_20sdp"
+        android:textAlignment="center"
+        />
+
+
+
+</LinearLayout>

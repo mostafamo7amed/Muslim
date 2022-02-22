@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Muslim</string>
+
+    <string-array name="Translation">
+        <item>English</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Portuguese</item>
+        <item>German</item>
+        <item>Turkish</item>
+        <item>Indonesian</item>
+        <item>Tagalog</item>
+        <item>Persian</item>
+        <item>Chinese</item>
+        <item>Japanese</item>
+        <item>Vietnamese</item>
+        <item>Hindi</item>
+    </string-array>
+
+    <string-array name="Qari">
+        <item>Ahmed ibn Ali al-Ajmy</item>
+        <item>AbdulBaset AbdulSamad [Murattal]</item>
+        <item>AbdulMuhsin al-Qasim</item>
+        <item>Abdullah Awad al-Juhani</item>
+        <item>Abdullah Basfar</item>
+        <item>Fares Abbad</item>
+        <item>Mishari Rashid al-`Afasy</item>
+        <item>Maher al-Muaiqly</item>
+        <item>Sudais and Shuraym</item>
+        <item>Yasser ad-Dussary</item>
+
+    </string-array>
+    <string name="select_translation">Select Translation</string>
+    <string name="select_qari">Select Qari</string>
+    <string name="save">Save</string>
+    <string name="quran">Quran</string>
+    <string name="fajr">Fajr</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="dhuhr">Dhuhr</string>
+    <string name="asr">Asr</string>
+    <string name="magrhib">Magrhib</string>
+    <string name="isha">Isha</string>
+    <string name="share">Share</string>
+    <string name="copy_text">Copy Text</string>
+    <string name="aya">Aya : </string>
+</resources>

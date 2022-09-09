@@ -8,9 +8,11 @@ guide users to knowing the times of Fajr,Sunrise,Duhr,Asr,Maghrib and Isha praye
 
 API used :  http://api.aladhan.com/v1/ 
 ## Components 
+
 	Retrofit
 	MVVM 
 
 
 
-## LICENSE [MIT License]
+## LICENSE 
+[https://github.com/mostafamo7amed/Muslim/blob/master/LICENSE]

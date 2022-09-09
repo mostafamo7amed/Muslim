@@ -204,27 +204,27 @@ public class MainActivity extends AppCompatActivity {
             StartCountDownTimer();
             nextPrayer.setText(f);
             prayerName.setText(R.string.fajr);
-        } else if(currentTime >fajrTime && currentTime <=sunTime){
+        } else if(currentTime >= fajrTime && currentTime <=sunTime){
             timeLeftInMilli = sunTime - currentTime;
             StartCountDownTimer();
             nextPrayer.setText(s);
             prayerName.setText(R.string.sunrise);
-        }else if (currentTime>sunTime && currentTime<=duhrTime){
+        }else if (currentTime>=sunTime && currentTime<=duhrTime){
             timeLeftInMilli = duhrTime - currentTime;
             StartCountDownTimer();
             nextPrayer.setText(d);
             prayerName.setText(R.string.dhuhr);
-        }else if(currentTime>duhrTime && currentTime <=asrTime){
+        }else if(currentTime>=duhrTime && currentTime <=asrTime){
             timeLeftInMilli = asrTime - currentTime;
             StartCountDownTimer();
             nextPrayer.setText(a);
             prayerName.setText(R.string.asr);
-        }else if(currentTime>asrTime && currentTime <=magrTime){
+        }else if(currentTime>=asrTime && currentTime <=magrTime){
             timeLeftInMilli = magrTime - currentTime;
             StartCountDownTimer();
             nextPrayer.setText(m);
             prayerName.setText(R.string.magrhib);
-        }else if(currentTime>magrTime ){
+        }else if(currentTime>=magrTime ){
             timeLeftInMilli = ishaTime - currentTime;
             StartCountDownTimer();
             nextPrayer.setText(i);

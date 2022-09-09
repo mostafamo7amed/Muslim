@@ -28,8 +28,8 @@
         <item>Maher al-Muaiqly</item>
         <item>Sudais and Shuraym</item>
         <item>Yasser ad-Dussary</item>
-
     </string-array>
+
     <string name="select_translation">Select Translation</string>
     <string name="select_qari">Select Qari</string>
     <string name="save">Save</string>

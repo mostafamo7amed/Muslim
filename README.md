@@ -15,4 +15,4 @@ API used :  http://api.aladhan.com/v1/
 
 
 ## LICENSE 
-[MIT License](LICENCE)
+[MIT License](https://github.com/mostafamo7amed/Muslim/blob/master/LICENSE)
